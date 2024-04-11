@@ -15,7 +15,7 @@ media screen and (min-width:1024px ) {
 @media screen and (max-device-width:480px ) and (orientation:portrait){
    .sub-container-1{
        display:flex;
-       align-tems-left;
+       align-items:left;
        
    }
 }
