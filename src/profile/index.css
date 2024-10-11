@@ -10,7 +10,12 @@ media screen and (min-width:1024px ) {
 
 }
 @media screen and (max-device-width:768px)and (min-device-width:1024px ) {
-   
+     .sub-container-1{
+       display:flex;
+       align-items:left;
+       width:100%;
+       
+   }
 }
 @media screen and (min-device-width:480px ) and (orientation:portrait){
    .sub-container-1{
